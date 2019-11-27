@@ -1,0 +1,10 @@
+{
+  "name": "tradesmarter",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "http-server C:/Users/Admin/Desktop/tradesmarter/part1"
+  },
+  "author": "Alex B",
+  "license": "ISC"
+}
